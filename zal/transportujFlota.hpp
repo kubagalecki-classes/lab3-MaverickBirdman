@@ -31,4 +31,3 @@ unsigned int transportujFlota(unsigned int towar)
 	}
 return liczbaZaglowcow;
 }
-}
